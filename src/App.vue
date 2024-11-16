@@ -13,7 +13,7 @@
     <main class="main">
       <section class="section">
         <h2 class="section-title">Summary</h2>
-        <p>Currently pursuing a degree in Mathematics and Computer Science (MIAGE) at the University of Bordeaux, specializing in data analysis and problem-solving methodologies. Combining technical expertise with practical business acumen.</p>
+        <p>Currently pursuing a degree in Mathematics and Computer Science (MIAGE) at the University of Bordeaux, specializing in data analysis and problem-solving methodologies. Combining technical expertise with practical business acumen</p>
       </section>
 
       <section class="section">
@@ -27,7 +27,7 @@
 
       <section class="section">
         <h2 class="section-title">Educational Background</h2>
-        <p>Commenced academic journey at the International School of Grenoble, followed by Bachelor's degree in Computer Science at the IUT de Paris. Professional experience encompasses both technical positions and retail operations at Nike House of Innovation in Paris, providing comprehensive exposure to technology and business sectors.</p>
+        <p>Commenced academic journey at the International School of Grenoble, followed by Bachelor's degree in Computer Science at the IUT de Paris. Professional experience encompasses both technical positions and retail operations at Nike House of Innovation in Paris, providing comprehensive exposure to technology and business sectors</p>
         
         <div v-for="(milestone, index) in journey" :key="index" class="milestone">
           <h3 class="milestone-title">{{milestone.title}}</h3>
