@@ -20,7 +20,7 @@
         <h2 class="section-title">Extracurriculars</h2>
         <ul class="list">
           <li>> Athletics (100m) and Strength Training</li>
-          <li>> Design and 3D Modelling</li>
+          <li>> Design & 3D Modelling</li>
           <li>> Writing</li>
         </ul>
       </section>
