@@ -121,6 +121,14 @@ export default {
           title: 'Bonduelle Group Strategic Analysis',
           description: '> Contributed to a group research project analyzing corporate growth strategies and market performance metrics, helping translate complex financial data into actionable insights.',
           pdfLink: '../assets/Bonduelle.pdf'
+        },
+
+        {
+          title: 'Spark : A perfume recommendation engine',
+          description: `> Designed a machine learning application that suggests perfumes based on user tweets. Users log in via Twitter, and the app analyzes their language style and preferences to provide personalized recommendations. <br><br>> Features include:<br>
+  - A curated database of perfumes with detailed note compositions.<br>
+  - Plans for community input to expand the perfume database.
+  <br><br><a href="https://github.com/enami27/spark" target="_blank">View GitHub Repository</a>`,
         }
       ]
 
